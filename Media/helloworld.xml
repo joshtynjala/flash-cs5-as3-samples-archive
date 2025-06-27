@@ -1,0 +1,5 @@
+<TextFlow xmlns="http://ns.adobe.com/textLayout/2008" textIndent="0" marginBottom="0" paddingTop="0" paddingLeft="0">
+	<p><span styleName="headlineStyle">Hello, World!</span></p>
+	<p>This example demonstrates how to use <span styleName='boldStyle'>TLF markup</span> and <span styleName='boldStyle'>CSS</span> to format a TLF text field.</p>
+	<p><a href="http://help.adobe.com/en_US/as3/dev/WS14c3067b34b57c6d4a97343b122ab36a52f-7ffb.html#WS14c3067b34b57c6d4a97343b122ab36a52f-7ff5" target="_new">Click here for more details.</a></p>
+</TextFlow>
