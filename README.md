@@ -1,7 +1,11 @@
 # ActionScript 3.0 Examples for Adobe Flash CS5
 
-An archive containing the sample projects contained in the file
+> An archive containing the sample projects contained in the file
 _as3samples-flashcs5.zip_ by Adobe Systems Incorporated.
+
+These ActionScript 3 samples demonstrate various features common in Adobe Flash Professional CS5 development. Some samples are complete applications, while others simply introduce a concept that you can use to build your own apps. Use these files to investigate how each of the samples was constructed. Explore the graphics and timelines in the FLA files, and explore the ActionScript code in the associated AS files.
+
+Samples are rated Beginning, Intermediate, and Advanced. Intermediate developers and people with prior experience in ActionScript 2 will be interested in looking at the code to see how it works in ActionScript 3.
 
 Copyright © Adobe Systems Incorporated. All rights reserved.
 

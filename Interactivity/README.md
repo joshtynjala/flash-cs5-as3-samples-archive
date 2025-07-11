@@ -1,0 +1,3 @@
+Flash Interactivity samples
+
+Flash Professional CS5 is a great tool for building games, learning interactions, and interactive environments. ActionScript 3 expands the options available to developers, allowing for creative solutions to old design problems. You can use the built-in components or build custom controls to create interactive elements in your movie. The Interactivity samples create animations through a series of interactive controls.

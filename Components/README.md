@@ -1,0 +1,3 @@
+# Flash Components samples
+
+One of the strengths of ActionScript is its ability to create organized, reusable [components](https://web.archive.org/web/20140302041903/http://www.adobe.com/devnet/flash/articles/concept_components.html). Flash Professional CS5 ships with a set of built-in user interface components for ActionScript 2 and ActionScript 3. You can also build your own custom components. The Components samples show built-in and custom components in action.
